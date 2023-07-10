@@ -115,4 +115,53 @@
   .author-image{
     padding-right: 10px;
   }
+.callpng{
+    width: 80px;
+    height: 80px;
+}
+.appointment-container{
+    display: flex;
+    align-items: center;
+    width: 70%;
+    padding: 20px;
+    margin: auto;
+    background-color: red;
+    border-radius: 5px;
+    margin-top: -60px;
+    justify-content:space-around;
+}
+.blog-container{
+  width: 80%;
+  margin: auto;
+  padding: 30px;
   
+}
+
+.call{
+    display: flex;
+    gap: 13px;
+    align-items: center;
+}
+  .blog-title{
+    color: black;
+    text-align: center;
+   margin: 50px;
+  }
+  .card{
+    width: 230px;
+    height: 300px;
+    box-shadow: 3px 3px 3px gray;
+    border-radius: 4px;
+    background-color: aliceblue;
+  }
+  .blog-img {
+    width: 100%;
+    border-radius: 4px;
+  }
+  .cards{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+   
+  }
+ 
